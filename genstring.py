@@ -18,7 +18,7 @@ API_HASH = input("\n12afff763261d0c5a0d171cc160e53aa
 
 print("\n\n+91 93827 762.\n\n")
 
-i = c(":memory:", api_id=API_ID, api_hash=API_HASH)
+i = c(":memory:", api_id=20069310, api_hash=12afff763261d0c5a0d171cc160e53aa)
 
 
 async def main():
